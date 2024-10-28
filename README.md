@@ -47,10 +47,10 @@ The code is structured to handle word counting via a main function that orchestr
 ### Diagrams
 
 -   **Process and Thread Creation**
-    ![Process and Thread Creation](img\thread_creation.jpg)
+    ![Process and Thread Creation](./img/thread_creation.jpg)
 
 -   **Inter-Process Communication**
-    ![Inter-Process Communication](img\IPC_diagram.jpg)
+    ![Inter-Process Communication](./img/IPC_diagram.jpg)
 
 ## Implementation Details
 
